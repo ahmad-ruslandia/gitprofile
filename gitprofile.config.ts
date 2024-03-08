@@ -2,12 +2,12 @@
 
 const CONFIG = {
   github: {
-    username: 'ahmadruslandia', // Your GitHub org/user name. (This is the only required config)
+    username: 'ahmad-ruslandia', // Your GitHub org/user name. (This is the only required config)
   },
   /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/ahmadruslandia/ahmadruslandia.github.io, set base to '/'.
+   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/ahmad-ruslandia/ahmad-ruslandia.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/ahmadruslandia/ahmadruslandia-portfolio, then set base to '/ahmadruslandia-portfolio/'.
+   * for example your repository is at https://github.com/ahmad-ruslandia/ahmad-ruslandia-portfolio, then set base to '/ahmad-ruslandia-portfolio/'.
    */
   base: '/',
   projects: {
@@ -20,12 +20,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['ahmadruslandia/my-project1', 'ahmadruslandia/my-project2']
+          projects: [], // These projects will not be displayed. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ahmadruslandia/gitprofile', 'ahmadruslandia/pandora'], // List of repository names to display. example: ['ahmadruslandia/my-project1', 'ahmadruslandia/my-project2']
+        projects: ['ahmad-ruslandia/gitprofile', 'ahmad-ruslandia/pandora'], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
       },
     },
     external: {
@@ -37,13 +37,13 @@ const CONFIG = {
           description:
             'This is the final project during an internship at Sandvik, this project is useful for managing assets at the company.',
 
-          link: 'https://github.com/ahmadruslandia/Sandvik-Asset-CI',
+          link: 'https://github.com/ahmad-ruslandia/Sandvik-Asset-CI',
         },
         {
           title: 'Tutorial',
           description:
             'This is an independent project, this project contains basic programming tutorials.',
-          link: 'https://github.com/ahmadruslandia/Tutorial',
+          link: 'https://github.com/ahmad-ruslandia/Tutorial',
         },
       ],
     },
@@ -203,7 +203,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/ahmadruslandia/gitprofile"
+      class="text-primary" href="https://github.com/ahmad-ruslandia/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
