@@ -1,5 +1,5 @@
 {
-  "name": "@ahmadruslandia/ahmadruslandia-portfolio",
+  "name": "@ahmad-ruslandia/ahmadruslandia-portfolio",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.0.0",
   "type": "module",
@@ -8,7 +8,7 @@
   "editor":"ahmadruslandia",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadruslandia/ahmadruslandia-portfolio.git"
+    "url": "https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio.git"
   },
   "bugs": {
     "url": "https://github.com/arifszn/gitprofile/issues"
