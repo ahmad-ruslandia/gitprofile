@@ -73,7 +73,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://ahnadruslandia-resume.vercel.app', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ahmadruslandia-resume.vercel.app', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Git',
