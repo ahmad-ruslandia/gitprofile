@@ -111,7 +111,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Achievement',
-      body: 'All Certificates are available on the Drive, Click to review the Certificates',
+      body: 'All certificates are available on the drive, Click to review the certificates',
       year: 'Present',
       link: 'https://drive.google.com/drive/folders/1K3B1mKANgJALvuwSSmAYTlb8XP1fPRZ0?usp=sharing',
     },
