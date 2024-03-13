@@ -7,7 +7,7 @@ const CONFIG = {
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/ahmad-ruslandia/ahmad-ruslandia.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/ahmad-ruslandia/ahmad-ruslandia-portfolio, then set base to '/ahmad-ruslandia-portfolio/'.
+   * for example your repository is at https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio, then set base to '/ahmadruslandia-portfolio/'.
    */
   base: '/',
   projects: {
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ahmad-ruslandia/gitprofile', 'ahmad-ruslandia/pandora'], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
+        projects: ['ahmad-ruslandia/ahmadruslandia-portfolio', 'ahmad-ruslandia/pandora'], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
       },
     },
     external: {
@@ -203,7 +203,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/ahmad-ruslandia/gitprofile"
+      class="text-primary" href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,

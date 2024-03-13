@@ -6,35 +6,35 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   <p align="center">
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/issues">
-      <img src="https://img.shields.io/github/issues/ahmad-ruslandia/gitprofile"/>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/issues">
+      <img src="https://img.shields.io/github/issues/ahmad-ruslandia/ahmadruslandia-portfolio"/>
     </a>
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/stargazers">
-      <img src="https://img.shields.io/github/stars/ahmad-ruslandia/gitprofile"/>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/stargazers">
+      <img src="https://img.shields.io/github/stars/ahmad-ruslandia/ahmadruslandia-portfolio"/>
     </a>
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/network/members">
-      <img src="https://img.shields.io/github/forks/ahmad-ruslandia/gitprofile"/>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/network/members">
+      <img src="https://img.shields.io/github/forks/ahmad-ruslandia/ahmadruslandia-portfolio"/>
     </a>
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/commits/main">
-      <img src="https://img.shields.io/github/last-commit/ahmad-ruslandia/gitprofile/main"/>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/commits/main">
+      <img src="https://img.shields.io/github/last-commit/ahmad-ruslandia/ahmadruslandia-portfolio/main"/>
     </a>
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/blob/main/CONTRIBUTING.md">
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/blob/main/CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
     </a>
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/ahmad-ruslandia/gitprofile"/>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/ahmad-ruslandia/ahmadruslandia-portfolio"/>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/ahmad-ruslandia/gitprofile&hashtags=javascript,opensource,js,webdev,developers">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fahmad-ruslandia%2Fgitprofile"/>
+    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio&hashtags=javascript,opensource,js,webdev,developers">
+      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fahmad-ruslandia%2Fahmadruslandia-portfolio"/>
     </a>
   </p>
 
   <p align="center">
-    <a href="https://gitprofile-omega.vercel.app/">View Demo</a>
+    <a href="https://ahmadruslandia-portfolio.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/issues">Report Bug</a>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ahmad-ruslandia/gitprofile/discussions">Request Feature</a>
+    <a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/discussions">Request Feature</a>
   </p>
 </p>
 
@@ -57,7 +57,7 @@
 ✓ [Projects Section](#projects)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://gitprofile-omega.vercel.app/)**.
+To view a live example, **[click here](https://ahmadruslandia-portfolio.vercel.app/)**.
 
 ## 🛠 Installation & Setup
 
@@ -70,7 +70,7 @@ There are three ways to use **GitProfile**. Use any.
 
 These instructions will get you a copy of the project and deploy your portfolio online using GitHub Pages!
 
-- **Fork repo:** Click [here](https://github.com/ahmad-ruslandia/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
+- **Fork repo:** Click [here](https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
 - **Rename repo:**
   - If you want to host your portfolio at `https://<USERNAME>.github.io`, rename your forked repository to `username.github.io` in GitHub, where `username` is your GitHub username (or organization name).
   - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO_NAME>` (e.g. `portfolio`) in GitHub.
@@ -80,7 +80,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
 
   - If you are deploying to `https://<USERNAME>.github.io`, set `base` to `'/'`.
 
-  - If you are deploying to `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/gitprofile`), then set `base` to `'/<REPO_NAME>/'` (e.g. `'/gitprofile/'`).
+  - If you are deploying to `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/ahmadruslandia-portfolio`), then set `base` to `'/<REPO_NAME>/'` (e.g. `'/ahmadruslandia-portfolio/'`).
 
   ```ts
   // gitprofile.config.ts
@@ -90,7 +90,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
   }
   ```
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/ahmad-ruslandia/gitprofile/actions) tab.
+- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/actions) tab.
 
 Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `gitprofile.config.ts` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
@@ -103,8 +103,8 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 - Clone the project and change directory.
 
   ```shell
-  git clone https://github.com/ahmad-ruslandia/gitprofile.git
-  cd gitprofile
+  git clone https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio.git
+  cd ahmadruslandia-portfolio
   ```
 
 - Install dependencies.
@@ -119,7 +119,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
   npm run dev
   ```
 
-- Finally, visit [`http://localhost:5173/gitprofile/`] from your browser.
+- Finally, visit [`http://localhost:5173/ahmadruslandia-portfolio/`] from your browser.
 
 ## 🎨 Customization
 
@@ -135,7 +135,7 @@ const CONFIG = {
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/ahmad-ruslandia/ahmad-ruslandia.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/ahmad-ruslandia/gitprofile, then set base to '/gitprofile/'.
+   * for example your repository is at https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio, then set base to '/ahmadruslandia-portfolio/'.
    */
   base: '/',
   projects: {
@@ -153,7 +153,10 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ahmad-ruslandia/gitprofile', 'ahmad-ruslandia/pandora'], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
+        projects: [
+          'ahmad-ruslandia/ahmadruslandia-portfolio',
+          'ahmad-ruslandia/pandora',
+        ], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
       },
     },
     external: {
@@ -311,7 +314,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/ahmad-ruslandia/gitprofile"
+      class="text-primary" href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
@@ -561,7 +564,10 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ahmad-ruslandia/gitprofile', 'ahmad-ruslandia/pandora'], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
+        projects: [
+          'ahmad-ruslandia/ahmadruslandia-portfolio',
+          'ahmad-ruslandia/pandora',
+        ], // List of repository names to display. example: ['ahmad-ruslandia/my-project1', 'ahmad-ruslandia/my-project2']
       },
     },
   },
@@ -621,14 +627,14 @@ The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
 ## 💖 Support
 
 <p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/ahmad-ruslandia/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/ahmad-ruslandia/gitprofile?style=social" alt="Github Star">
+<a href="https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/stargazers">
+  <img src="https://img.shields.io/github/stars/ahmad-ruslandia/ahmadruslandia-portfolio?style=social" alt="Github Star">
 </a>
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/ahmad-ruslandia/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-[MIT](https://github.com/ahmad-ruslandia/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/ahmad-ruslandia/ahmadruslandia-portfolio/blob/main/LICENSE)
